@@ -3,7 +3,7 @@
 A general toolkit for processing authors for journal peer review including conflict of interest search string generation, email clean-up, and a Selenium scraper for Google Scholar. This toolkit was built to simplify the accurate finding of relevant peer reviewers and to sanitize their email addresses.
 
 The workflow is as follows:
-1) Locate paper identifier on Scholar 1 Manuscripts (S1M)
+1) Locate paper identifier on portal
 2) Copy author string
 3) Generate COI search string using author string
 4) Apply to database search bar (PubMed and Google Scholar, depending on subject of the publications)
