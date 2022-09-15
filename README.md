@@ -22,7 +22,7 @@ The benefit of this script is to save time or cost without need to perform alter
 1) Applying the author string to the database search bar, then manually performing the changes above, or
 2) Purchasing a copy of Microsoft Office (or using a free word processor) for "find and replace" function, then having to type out the changes above every time.
 
-Furthermore, other Peer Review Managers (PRM) may have manually performed the above COI string generation and introduced human error. Using this script, a PRM can generate the COI string fresh every time without having to rely on the accuracy of a prior PRM.
+Furthermore, other individuals may have manually performed the above COI string generation and introduced human error. Using this script, a PRM can generate the COI string fresh every time without having to rely on the accuracy of a prior operator.
 
 
 Email address cleanup
